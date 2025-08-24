@@ -2,7 +2,6 @@
 Design and Development of Autoencoders to Identify Latent Space
 for Protein Kinase
 
-Authors:
-- Xingyu Liu
+Author: Xingyu Liu
 - This project is based on the code of https://github.com/meyresearch/BRAF.git
 - The code is partly cooperated with Jiaqi Guo.
